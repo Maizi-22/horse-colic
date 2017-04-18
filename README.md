@@ -1,5 +1,6 @@
-# horse-colic
-用 R语言完成
+# horse-colic-analysis
+# by 张渊 
+# R语言
 
 hw.Rmd是Rmarkdown文件
 hw.html是生成的网页
